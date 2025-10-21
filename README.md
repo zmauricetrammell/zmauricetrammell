@@ -1,6 +1,6 @@
 # I’m Mars
 
-I’m a **military network engineer** and **automation enthusiast** building my personal automation lab — a space where I design, document, and experiment with systems that connect, communicate, and configure themselves.
+I’m a **military network engineer** and **automation enthusiast** exploring automation and undertaking coding adventures — this is a space where I design, document, and experiment with systems that connect, communicate, and configure themselves.
 
 ---
 
